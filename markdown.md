@@ -18,5 +18,6 @@ Ce langage est apparu en 2004
 
 ## Exemple
 Voici un exemple de syntaxe pour afficher une liste ordonnée:
-
-> <html></html>
+` 1. ligne1 `
+` 2. ligne2 `
+` 3. ligne3 `
