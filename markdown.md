@@ -6,10 +6,10 @@
 <html>
 <head>
 <style>
-.g{color:red}
+.g{color:red;}
 </style>
 </head>
 <body>
-<span class"g">gg</span>
+<span class="g">gg</span>
 </body>
 </html>
