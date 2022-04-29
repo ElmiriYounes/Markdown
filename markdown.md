@@ -7,6 +7,6 @@
 <head>
 </head>
 <body>
-<span style="color:red;">gg</span>
+<span style="color:red;">*gg*</span>
 </body>
 </html>
