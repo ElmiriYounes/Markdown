@@ -10,13 +10,13 @@ Markdown est un langage de balise qui offre une syntaxe facile à lire et à éc
 Il supporte également le codage HTML.
 
 ## Son apparition
-###Par qui
+### Par qui
 Markdown a été fondé par John Gruber et l'aide d'Aaron Swartz
 
-###Quand
+### Quand
 Ce langage est apparu en 2004
 
 ## Exemple
 Voici un exemple de syntaxe pour afficher une liste ordonnée:
 
-<html></html>
+> <html></html>
