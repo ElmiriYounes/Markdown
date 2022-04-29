@@ -19,10 +19,12 @@ Ce langage est apparu en 2004
 ## Exemple
 Voici un exemple de syntaxe HTML pour afficher un titre:   
 
-` <html>
+``` 
+<html>
 <head>
 <head>
 <body>
 <h1> Hello </h1>
 </body>
-</html> `
+</html> 
+```
