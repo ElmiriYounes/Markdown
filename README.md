@@ -4,7 +4,7 @@
 Apprenez la technologie markdown et facilitez vous la vie en générant des fichiers .md plus facilement !
 
 ## Fait par:
-*Arthur
-*Gérard
-*Piter
-*Pierre
+* Arthur
+* Gérard
+* Piter
+* Pierre
