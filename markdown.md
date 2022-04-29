@@ -28,3 +28,10 @@ Voici un exemple de syntaxe HTML pour afficher un titre:
 </body>
 </html> 
 ```
+   
+#### Félicitation: vous avez appris un nouveau langage   
+   
+![this is an image gif](images/congratulation-gif.gif)
+   
+   
+[README](README.md)
