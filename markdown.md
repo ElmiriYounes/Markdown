@@ -17,7 +17,12 @@ Markdown a été fondé par John Gruber et l'aide d'Aaron Swartz
 Ce langage est apparu en 2004
 
 ## Exemple
-Voici un exemple de syntaxe pour afficher une liste ordonnée:
-` 1. ligne1 `
-` 2. ligne2 `
-` 3. ligne3 `
+Voici un exemple de syntaxe HTML pour afficher un titre:   
+
+` <html>
+<head>
+<head>
+<body>
+<h1> Hello </h1>
+</body>
+</html> `
