@@ -9,4 +9,4 @@ Apprenez la technologie markdown et facilitez vous la vie en générant des fich
 * Piter
 * Pierre
 
-### [C'est quoi markdown ?] (markdown.md)
+### [C'est quoi markdown ?](markdown.md)
