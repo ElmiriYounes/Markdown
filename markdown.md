@@ -3,4 +3,10 @@
 2. Son apparition
    1. Où
    2. Quand
-<span stle={color: red}>gg</span>
+<html>
+<head>
+</head>
+<body>
+<span style={color: red}>gg</span>
+</body>
+</html>
