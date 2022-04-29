@@ -7,6 +7,6 @@
 <head>
 </head>
 <body>
-<span style="color:red;">some text *blue* text</span>
+<span style="color:blue;">some text *blue* text</span>
 </body>
 </html>
