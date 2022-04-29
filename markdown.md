@@ -5,8 +5,11 @@
    2. Quand
 <html>
 <head>
+<style>
+.g{color:red}
+</style>
 </head>
 <body>
-<span style={color: red}>gg</span>
+<span class"g">gg</span>
 </body>
 </html>
